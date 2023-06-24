@@ -1,0 +1,14 @@
+﻿  gui.cpp
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(47,72): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(56,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(61,133): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(97,55): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(98,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(99,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(102,50): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(102,37): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(103,50): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(103,46): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(106,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zerea\source\repos\GameTheBest\GameTheBest\gui.cpp(114,106): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  GameTheBest.vcxproj -> C:\Users\zerea\source\repos\GameTheBest\x64\Debug\GameTheBest.exe
